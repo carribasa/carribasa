@@ -26,7 +26,6 @@ Tras terminar mis actuales estudios, me dispongo a iniciar formación acerca del
 Y algunas más...
 
 ## Encuéntrame en:
-</br>
 [![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Charlie2Secret)
 [![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/charlie2drums)
 [![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/carlos.arribasalvarez)
