@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hola, mi nombre es Carlos Arribas 👋
 
-<!--
-**carribasa/carribasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Soy desarrollador de software Junior 💻
+Estoy comenzando en este mundillo y poco a poco empiezo a entender lo que es dedicarme a una vocación real 🙂
 
-Here are some ideas to get you started:
+También tengo estsudios en administración, sector en el que he trabajado desde hace años y el cual me ha dado mucha experiencia para encontrar la fuerza para volver a embarcarme en el estudio y "volver a empezar" en un nuevo secor, claro está, aplicando todo lo que he aprendido en el camino.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco oportunidades en las que poder desempeñar las funciones que más me apasionan y además poder crear un buen ambiente de trabajo consiguiendo la mejor productividad que me ayude a crecer junto a la empresa.
+He trabajado en varios sectores y he tenido que adaptarme a diferentes puestos de trabajo donde siempre he dado lo mejor de mi para adaptarme y llegar a promocionar dentro de las empresas en las que tomado parte para poder crecer como trabajador y en el mundo laboral.
+
+Mis preferencias son desarrollo de aplicaciones Android, que es en lo que más formación y experiencia he obtenido, pero tengo mucho interés en todo lo que tenga que ver con desarrollo de aplicaciones multiplataforma y desarrollo de aplicaciones web.
+
+Tras terminar mis actuales estudios, me dispongo a iniciar formación acerca del desarrollo de videojuegos e integración con realidad virtual.
+
+</br>
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+</br>
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
+</br>
