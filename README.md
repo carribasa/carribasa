@@ -24,10 +24,10 @@ Tras terminar mis actuales estudios, me dispongo a iniciar formación acerca del
 </br>
 [![TypeScript](https://img.shields.io/badge/TypeScript-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Angular](https://img.shields.io/badge/Angular-E4405F?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![HTML](https://img.shields.io/badge/HTML-3DDC84?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS-1DA1F2?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/Git-1877F2?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![VSCode](https://img.shields.io/badge/VSCode-0077B5?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML-3DDC84?style=for-the-badge&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-1DA1F2?style=for-the-badge&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/Git-339933?style=for-the-badge&labelColor=101010)]()
+[![VSCode](https://img.shields.io/badge/VSCode-0077B5?style=for-the-badge&logoColor=white&labelColor=101010)]()
 
 Y algunas más...
 
