@@ -26,7 +26,7 @@ Tras terminar mis actuales estudios, me dispongo a iniciar formación acerca del
 Y algunas más...
 
 ## Encuéntrame en:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Arribas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-arribas-%C3%A1lvarez-92bab6255/)
 [![Twitter](https://img.shields.io/badge/Twitter-Carlos_Arribas-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://img.shields.io/twitter/follow/Charlie2Secret)
 [![Instagram](https://img.shields.io/badge/Instagram-Carlos_Arribas-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/charlie2drums)
 [![Facebook](https://img.shields.io/badge/Facebook-Carlos_Arribas-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/carlos.arribasalvarez)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Arribas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-arribas-%C3%A1lvarez-92bab6255/)
