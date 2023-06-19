@@ -28,5 +28,5 @@ Y algunas más...
 ## Encuéntrame en:
 ![Twitter Follow](https://img.shields.io/twitter/follow/Charlie2Secret)
 ![Logo de Instagram](https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png)(https://instagram.com/charlie2drums)
-![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/carlos.arribasalvarez)
+![Facebook](https://img.shields.io/badge/Facebook-@carlos.arribasalvarez-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/carlos.arribasalvarez)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-arribas-%C3%A1lvarez-92bab6255/)
