@@ -13,7 +13,7 @@ Mis preferencias son desarrollo de aplicaciones Android, que es en lo que más f
 Tras terminar mis actuales estudios, me dispongo a iniciar formación acerca del desarrollo de videojuegos e integración con realidad virtual.
 
 ## Tecnologías:
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logoColor=white&labelColor=101010)]()
+[![Android](https://img.shields.io/badge/Android-E4405F?style=for-the-badge&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=white&labelColor=101010)]()
