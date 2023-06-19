@@ -15,7 +15,6 @@ Tras terminar mis actuales estudios, me dispongo a iniciar formación acerca del
 ## Tecnologías:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
@@ -23,6 +22,9 @@ Tras terminar mis actuales estudios, me dispongo a iniciar formación acerca del
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
+[![TypeScript](https://img.shields.io/badge/TypeScript-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Angular](https://img.shields.io/badge/Angular-E4405F?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+
 Y algunas más...
 
 ## Encuéntrame en:
