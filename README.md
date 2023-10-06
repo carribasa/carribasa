@@ -10,7 +10,7 @@ He trabajado en varios sectores y he tenido que adaptarme a diferentes puestos d
 
 Mis preferencias son desarrollo de aplicaciones Android, que es en lo que más formación y experiencia he obtenido, pero tengo mucho interés en todo lo que tenga que ver con desarrollo de aplicaciones multiplataforma y desarrollo de aplicaciones web.
 
-Tras terminar mis actuales estudios, me dispongo a iniciar formación acerca del desarrollo de videojuegos e integración con realidad virtual.
+Actualmente curso estudios de especialización en videojuegos y realidad virtual.
 
 ## Tecnologías:
 [![Android](https://img.shields.io/badge/Android-E4405F?style=for-the-badge&logoColor=white&labelColor=101010)]()
