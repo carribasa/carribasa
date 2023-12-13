@@ -13,6 +13,7 @@ Mis preferencias son desarrollo de aplicaciones Android, que es en lo que más f
 Actualmente curso estudios de especialización en videojuegos y realidad virtual.
 
 ## Tecnologías:
+[![Unity](https://img.shields.io/badge/Unity-0077B5?style=for-the-badge&logoColor=white&labelColor=101010)]()
 [![Android](https://img.shields.io/badge/Android-E4405F?style=for-the-badge&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white&labelColor=101010)]()
