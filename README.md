@@ -1,9 +1,9 @@
 ### Hola, mi nombre es Carlos Arribas 👋
 
-💻 Soy desarrollador de software Junior 💻
-Estoy comenzando en este mundillo y poco a poco empiezo a entender lo que es dedicarme a una vocación real 🙂
+💻 Soy desarrollador de software 💻
+Estoy creciendo en este mundillo y poco a poco empiezo a entender lo que es dedicarme a una vocación real 🙂
 
-También tengo estsudios en administración, sector en el que he trabajado desde hace años y el cual me ha dado mucha experiencia para encontrar la fuerza para volver a embarcarme en el estudio y "volver a empezar" en un nuevo secor, claro está, aplicando todo lo que he aprendido en el camino.
+También tengo estudios en administración, sector en el que he trabajado desde hace años y el cual me ha dado mucha experiencia para encontrar la fuerza para volver a embarcarme en el estudio y "volver a empezar" en un nuevo secor, claro está, aplicando todo lo que he aprendido en el camino.
 
 Busco oportunidades en las que poder desempeñar las funciones que más me apasionan y además poder crear un buen ambiente de trabajo consiguiendo la mejor productividad que me ayude a crecer junto a la empresa.
 He trabajado en varios sectores y he tenido que adaptarme a diferentes puestos de trabajo donde siempre he dado lo mejor de mi para adaptarme y llegar a promocionar dentro de las empresas en las que tomado parte para poder crecer como trabajador y en el mundo laboral.
