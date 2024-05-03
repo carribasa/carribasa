@@ -3,12 +3,12 @@
 💻 Soy desarrollador de software y experiencias con motores de videojuegos 🎮
 Estoy creciendo en este mundillo y poco a poco empiezo a entender lo que es dedicarme a una vocación real 🙂
 
-También tengo estudios en administración, sector en el que he trabajado desde hace años y el cual me ha dado mucha experiencia para encontrar la fuerza para volver a embarcarme en el estudio y "volver a empezar" en un nuevo sector, claro está, aplicando todo lo que he aprendido en el camino.
+También tengo estudios en 📖 administración 🖊️, sector en el que he trabajado desde hace años y el cual me ha dado mucha experiencia para encontrar la fuerza para volver a embarcarme en el estudio y "volver a empezar" en un nuevo sector, claro está, aplicando todo lo que he aprendido en el camino.
 
-Actualmente trabajo en proyectos de desarrollo de software orientado a la realidad virtual donde desempeño las funciones que más me apasionan y, todo ello, creando un buen ambiente de trabajo para poder conseguir la mejor productividad que me ayude a crecer junto a mis compañeros y la empresa.
+Actualmente trabajo en proyectos de desarrollo de software 🖥️ orientado a la realidad virtual 🥽 donde desempeño las funciones que más me apasionan y, todo ello, creando un buen ambiente de trabajo para poder conseguir la mejor productividad que me ayude a crecer junto a mis compañeros y la empresa.
 He trabajado en varios sectores y he tenido que adaptarme a diferentes puestos de trabajo donde siempre he dado lo mejor de mi para adaptarme y llegar a promocionar dentro de las empresas en las que tomado parte para poder crecer como trabajador y en el mundo laboral.
 
-Mis preferencias son desarrollo con motores de videojuegos y aplicaciones Android, que es en lo que más formación y experiencia he obtenido, y trabajo cada día por aprender y crecer como profesional dentro de los proyectos en los que tengo la suerte de trabajar.
+Mis preferencias son desarrollo con motores de videojuegos 🕹️ y aplicaciones Android 📱, que es en lo que más formación y experiencia he obtenido, y trabajo cada día por aprender y crecer como profesional dentro de los proyectos en los que tengo la suerte de trabajar.
 
 Además, actualmente curso estudios superiores de especialización en videojuegos y realidad virtual.
 
