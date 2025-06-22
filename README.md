@@ -12,9 +12,6 @@ He trabajado en distintos sectores y me he adaptado a diversos roles, siempre co
 
 ---
 
-<details>
-  <summary>🇬🇧 English version</summary>
-
 ### Hi, I'm Carlos Arribas 👋
 
 💻 Software developer and interactive experience creator using game engines 🎮
@@ -26,8 +23,6 @@ Currently, I’m working on solutions focused on Virtual Reality 🥽, where I g
 I’ve worked across various industries and adapted to different roles, always committed to learning from each experience and growing within the organisations I've been part of.
 
 🕹️ My focus is on game engine development (Unity, Unreal) and Android applications 📱, where I've gained the most training and hands-on experience. Every day, I strive to keep learning and improving, both professionally and personally.
-
-</details>
 
 ---
 
@@ -54,14 +49,9 @@ Y algunas más...
 
 ## 🎬 Proyectos destacados:
 
-🎥 [Ver proyecto en YouTube](https://www.youtube.com/watch?v=VIDEO_1)  
-🎥 [Ver proyecto en YouTube](https://www.youtube.com/watch?v=VIDEO_2)  
-🎥 [Ver proyecto en YouTube](https://www.youtube.com/watch?v=VIDEO_3)  
-🎥 [Ver proyecto en YouTube](https://www.youtube.com/watch?v=VIDEO_4)
-
-> Reemplaza cada `VIDEO_X` con el ID de tu vídeo de YouTube. Por ejemplo, si tu link es `https://www.youtube.com/watch?v=dQw4w9WgXcQ`, ese sería el ID.
-
----
+🎥 [Simulador Emergencias Sanitarias]([https://www.youtube.com/watch?v=VIDEO_1](https://www.youtube.com/watch?v=pidI46RNh0k))  
+🎥 [Simulador Laboratorio de Bioquímica]([https://www.youtube.com/watch?v=VIDEO_2](https://www.youtube.com/watch?v=xuhOttJNmEo))  
+🎥 [Simulador Peluquería y Estética]([https://www.youtube.com/watch?v=VIDEO_3](https://www.youtube.com/watch?v=9wxmmJeQuvI))  
 
 ## 🌐 Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Arribas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-arribas-%C3%A1lvarez-92bab6255/)
