@@ -54,12 +54,8 @@ I’ve worked across various industries and adapted to different roles, always c
 ---
 
 ## 🌐 Encuéntrame en:
-🧳 <a href="https://www.linkedin.com/in/carlos-arribas-%C3%A1lvarez-92bab6255/" style="color:#0077B5; text-decoration:none;"><strong>LinkedIn</strong></a>
-
-🐦 <a href="https://twitter.com/Charlie2Secret" style="color:#1DA1F2; text-decoration:none;"><strong>Twitter</strong></a>
-
-📸 <a href="https://instagram.com/charlie2dev" style="color:#E4405F; text-decoration:none;"><strong>Instagram</strong></a>
-
-📘 <a href="https://facebook.com/carlos.arribasalvarez" style="color:#1877F2; text-decoration:none;"><strong>Facebook</strong></a>
-
-📺 <a href="https://www.youtube.com/results?search_query=gameframedev" style="color:#FF0000; text-decoration:none;"><strong>YouTube</strong></a>
+👉 [🧳 LinkedIn](https://www.linkedin.com/in/carlos-arribas-%C3%A1lvarez-92bab6255/)  
+👉 [🐦 Twitter](https://twitter.com/Charlie2Secret)  
+👉 [📸 Instagram](https://instagram.com/charlie2dev)  
+👉 [📘 Facebook](https://facebook.com/carlos.arribasalvarez)  
+👉 [📺 YouTube](https://www.youtube.com/results?search_query=gameframedev)
