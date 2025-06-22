@@ -27,16 +27,17 @@ I’ve worked across various industries and adapted to different roles, always c
 ---
 
 🚀 Tecnologías:
+
 [![Unity](https://img.shields.io/badge/Unity-0077B5?style=for-the-badge&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/CSharp-9445F8?style=for-the-badge&logoColor=white&labelColor=101010)]()
 [![Android](https://img.shields.io/badge/Android-E4405F?style=for-the-badge&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=white&labelColor=101010)]()
-</br>
+
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white&labelColor=101010)]()
-</br>
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1DA1F2?style=for-the-badge&labelColor=101010)]()
@@ -47,15 +48,19 @@ Y algunas más...
 
 ---
 
-🎬 Portfolio proyectos destacados:
+🎬 **Portfolio - Proyectos destacados:**
 
 🎥 [Simulador Emergencias Sanitarias](https://www.youtube.com/watch?v=pidI46RNh0k)  
 🎥 [Simulador Laboratorio de Bioquímica](https://www.youtube.com/watch?v=xuhOttJNmEo)  
-🎥 [Simulador Peluquería y Estética](https://www.youtube.com/watch?v=9wxmmJeQuvI)
+🎥 [Simulador Peluquería y Estética](https://www.youtube.com/watch?v=9wxmmJeQuvI)  
+🎥 [Proyecto Extra - Placeholder](https://www.youtube.com/watch?v=AQUI_TU_URL)
 
-🌐 Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Arribas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-arribas-%C3%A1lvarez-92bab6255/)
-[![Twitter](https://img.shields.io/badge/Twitter-Carlos_Arribas-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Charlie2Secret)
-[![Instagram](https://img.shields.io/badge/Instagram-Carlos_Arribas-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/charlie2dev)
-[![Facebook](https://img.shields.io/badge/Facebook-Carlos_Arribas-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/carlos.arribasalvarez)
+---
+
+🌐 **Encuéntrame en:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Arribas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-arribas-%C3%A1lvarez-92bab6255/)  
+[![Twitter](https://img.shields.io/badge/Twitter-Carlos_Arribas-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Charlie2Secret)  
+[![Instagram](https://img.shields.io/badge/Instagram-Carlos_Arribas-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/charlie2dev)  
+[![Facebook](https://img.shields.io/badge/Facebook-Carlos_Arribas-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/carlos.arribasalvarez)  
 [![YouTube](https://img.shields.io/badge/YouTube-Carlos_Arribas-ff2d00?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/results?search_query=gameframedev)
