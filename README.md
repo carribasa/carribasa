@@ -1,6 +1,6 @@
 ### Hola, mi nombre es Carlos Arribas 👋
 
-💻 Desarrollador de software y experiencias interactivas con motores de videojuegos 🎮
+💻 Desarrollador de software y experiencias interactivas con motores de videojuegos 🎮, además de creador de contenido en vídeo sobre desarrollo y videojuegos.
 
 Actualmente desarrollo soluciones orientadas a la realidad virtual 🥽, donde desempeño las funciones que más me apasionan: programación, diseño de interacciones y creación de entornos inmersivos. Disfruto trabajando en equipo, creando un ambiente positivo que favorezca la productividad y el crecimiento conjunto, tanto a nivel profesional como humano.
 
@@ -14,7 +14,7 @@ He trabajado en distintos sectores y me he adaptado a diversos roles, siempre co
 
 ### Hi, I'm Carlos Arribas 👋
 
-💻 Software developer and interactive experience creator using game engines 🎮
+💻 Software developer and interactive experience creator using game engines 🎮, as well as a video content creator focused on game development and video games.
 
 Currently, I’m working on solutions focused on Virtual Reality 🥽, where I get to do what I love most: coding, designing interactions, and building immersive environments. I enjoy working in teams and fostering a positive atmosphere that boosts productivity and collective growth.
 
