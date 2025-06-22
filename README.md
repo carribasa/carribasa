@@ -50,7 +50,6 @@ I’ve worked across various industries and adapted to different roles, always c
 🎥 [Simulador Emergencias Sanitarias](https://www.youtube.com/watch?v=pidI46RNh0k)  
 🎥 [Simulador Laboratorio de Bioquímica](https://www.youtube.com/watch?v=xuhOttJNmEo)  
 🎥 [Simulador Peluquería y Estética](https://www.youtube.com/watch?v=9wxmmJeQuvI)  
-🎥 [Nombre del Proyecto Placeholder](https://www.youtube.com/watch?v=URL_DEL_VIDEO)
 
 ---
 
