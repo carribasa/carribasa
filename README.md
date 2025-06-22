@@ -10,7 +10,28 @@ He trabajado en distintos sectores y me he adaptado a diversos roles, siempre co
 
 🕹️ Me especializo en desarrollo con motores de videojuegos (Unity, Unreal) y en aplicaciones Android 📱, áreas en las que más he crecido técnica y creativamente. Cada día trabajo por seguir formándome, aprendiendo y mejorando como profesional.
 
-## Tecnologías:
+---
+
+<details>
+  <summary>🇬🇧 English version</summary>
+
+### Hi, I'm Carlos Arribas 👋
+
+💻 Software developer and interactive experience creator using game engines 🎮
+
+Currently, I’m working on solutions focused on Virtual Reality 🥽, where I get to do what I love most: coding, designing interactions, and building immersive environments. I enjoy working in teams and fostering a positive atmosphere that boosts productivity and collective growth.
+
+📚 I hold qualifications in software development, video games, and VR, as well as in business administration — a field I worked in for several years. That stage gave me not only experience but also the drive to reinvent myself professionally and pursue a career aligned with my true passion.
+
+I’ve worked across various industries and adapted to different roles, always committed to learning from each experience and growing within the organisations I've been part of.
+
+🕹️ My focus is on game engine development (Unity, Unreal) and Android applications 📱, where I've gained the most training and hands-on experience. Every day, I strive to keep learning and improving, both professionally and personally.
+
+</details>
+
+---
+
+## 🚀 Tecnologías:
 [![Unity](https://img.shields.io/badge/Unity-0077B5?style=for-the-badge&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/CSharp-9445F8?style=for-the-badge&logoColor=white&labelColor=101010)]()
 [![Android](https://img.shields.io/badge/Android-E4405F?style=for-the-badge&logoColor=white&labelColor=101010)]()
@@ -29,10 +50,22 @@ He trabajado en distintos sectores y me he adaptado a diversos roles, siempre co
 
 Y algunas más...
 
-## Encuéntrame en:
+---
+
+## 🎬 Proyectos destacados:
+
+🎥 [Ver proyecto en YouTube](https://www.youtube.com/watch?v=VIDEO_1)  
+🎥 [Ver proyecto en YouTube](https://www.youtube.com/watch?v=VIDEO_2)  
+🎥 [Ver proyecto en YouTube](https://www.youtube.com/watch?v=VIDEO_3)  
+🎥 [Ver proyecto en YouTube](https://www.youtube.com/watch?v=VIDEO_4)
+
+> Reemplaza cada `VIDEO_X` con el ID de tu vídeo de YouTube. Por ejemplo, si tu link es `https://www.youtube.com/watch?v=dQw4w9WgXcQ`, ese sería el ID.
+
+---
+
+## 🌐 Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Arribas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-arribas-%C3%A1lvarez-92bab6255/)
 [![Twitter](https://img.shields.io/badge/Twitter-Carlos_Arribas-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Charlie2Secret)
 [![Instagram](https://img.shields.io/badge/Instagram-Carlos_Arribas-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/charlie2dev)
 [![Facebook](https://img.shields.io/badge/Facebook-Carlos_Arribas-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/carlos.arribasalvarez)
-[![Youtube](https://img.shields.io/badge/Youtube-Carlos_Arribas-ff2d00?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/results?search_query=gameframedev)
-
+[![YouTube](https://img.shields.io/badge/YouTube-Carlos_Arribas-ff2d00?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/results?search_query=gameframedev)
