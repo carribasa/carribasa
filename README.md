@@ -49,9 +49,9 @@ Y algunas más...
 
 ## 🎬 Portfolio proyectos destacados:
 
-🎥 [Simulador Emergencias Sanitarias]([https://www.youtube.com/watch?v=pidI46RNh0k])  
-🎥 [Simulador Laboratorio de Bioquímica]([https://www.youtube.com/watch?v=xuhOttJNmEo])  
-🎥 [Simulador Peluquería y Estética]([https://www.youtube.com/watch?v=9wxmmJeQuvI])  
+🎥 [Simulador Emergencias Sanitarias](https://www.youtube.com/watch?v=pidI46RNh0k)  
+🎥 [Simulador Laboratorio de Bioquímica](https://www.youtube.com/watch?v=xuhOttJNmEo)  
+🎥 [Simulador Peluquería y Estética](https://www.youtube.com/watch?v=9wxmmJeQuvI)
 
 ## 🌐 Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Arribas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-arribas-%C3%A1lvarez-92bab6255/)
