@@ -8,7 +8,7 @@ Actualmente desarrollo soluciones orientadas a la realidad virtual 🥽, donde d
 
 He trabajado en distintos sectores y me he adaptado a diversos roles, siempre con compromiso, aprendiendo de cada experiencia y progresando dentro de las empresas en las que he colaborado.
 
-🕹️ Me especializo en desarrollo con motores de videojuegos (Unity, Unreal) y en aplicaciones Android 📱, áreas en las que más he crecido técnica y creativamente. Cada día trabajo por seguir formándome, aprendiendo y mejorando como profesional.
+🕹️ Me especializo en desarrollo con motores de videojuegos y en aplicaciones Android 📱, áreas en las que más he crecido técnica y creativamente. Cada día trabajo por seguir formándome, aprendiendo y mejorando como profesional.
 
 ---
 
@@ -22,7 +22,7 @@ Currently, I’m working on solutions focused on Virtual Reality 🥽, where I g
 
 I’ve worked across various industries and adapted to different roles, always committed to learning from each experience and growing within the organisations I've been part of.
 
-🕹️ My focus is on game engine development (Unity, Unreal) and Android applications 📱, where I've gained the most training and hands-on experience. Every day, I strive to keep learning and improving, both professionally and personally.
+🕹️ My focus is on game engine development and Android applications 📱, where I've gained the most training and hands-on experience. Every day, I strive to keep learning and improving, both professionally and personally.
 
 ---
 
