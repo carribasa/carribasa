@@ -54,8 +54,12 @@ I’ve worked across various industries and adapted to different roles, always c
 ---
 
 ## 🌐 Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Arribas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-arribas-%C3%A1lvarez-92bab6255/)
-[![Twitter](https://img.shields.io/badge/Twitter-Carlos_Arribas-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Charlie2Secret)
-[![Instagram](https://img.shields.io/badge/Instagram-Carlos_Arribas-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/charlie2dev)
-[![Facebook](https://img.shields.io/badge/Facebook-Carlos_Arribas-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/carlos.arribasalvarez)
-[![YouTube](https://img.shields.io/badge/YouTube-Carlos_Arribas-ff2d00?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/results?search_query=gameframedev)
+🧳 <a href="https://www.linkedin.com/in/carlos-arribas-%C3%A1lvarez-92bab6255/" style="color:#0077B5; text-decoration:none;"><strong>LinkedIn</strong></a>
+
+🐦 <a href="https://twitter.com/Charlie2Secret" style="color:#1DA1F2; text-decoration:none;"><strong>Twitter</strong></a>
+
+📸 <a href="https://instagram.com/charlie2dev" style="color:#E4405F; text-decoration:none;"><strong>Instagram</strong></a>
+
+📘 <a href="https://facebook.com/carlos.arribasalvarez" style="color:#1877F2; text-decoration:none;"><strong>Facebook</strong></a>
+
+📺 <a href="https://www.youtube.com/results?search_query=gameframedev" style="color:#FF0000; text-decoration:none;"><strong>YouTube</strong></a>
