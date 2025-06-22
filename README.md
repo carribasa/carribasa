@@ -36,5 +36,5 @@ Y algunas más...
 [![Twitter](https://img.shields.io/badge/Twitter-Carlos_Arribas-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Charlie2Secret)
 [![Instagram](https://img.shields.io/badge/Instagram-Carlos_Arribas-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/charlie2dev)
 [![Facebook](https://img.shields.io/badge/Facebook-Carlos_Arribas-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/carlos.arribasalvarez)
-[![Youtube](https://img.shields.io/badge/Youtube-Carlos_Arribas-1877F2?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/results?search_query=gameframedev)
+[![Youtube](https://img.shields.io/badge/Youtube-Carlos_Arribas-ff2d00?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/results?search_query=gameframedev)
 
