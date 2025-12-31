@@ -1,28 +1,28 @@
 ### Hola, mi nombre es Carlos Arribas 👋
 
-💻 Desarrollador de software y experiencias interactivas con motores de videojuegos 🎮, además de creador de contenido en vídeo sobre desarrollo y videojuegos.
+💻 Desarrollador de software y experiencias interactivas con motores de videojuegos, especializado en Unity, realidad virtual y desarrollo de aplicaciones Android 📱.
 
-Actualmente desarrollo soluciones orientadas a la realidad virtual 🥽, donde desempeño las funciones que más me apasionan: programación, diseño de interacciones y creación de entornos inmersivos. Disfruto trabajando en equipo, creando un ambiente positivo que favorezca la productividad y el crecimiento conjunto, tanto a nivel profesional como humano.
+Trabajo en el desarrollo de aplicaciones y videojuegos, participando en tareas de programación, diseño y creación de entornos inmersivos, con un enfoque técnico sólido, práctico y orientado a producto. Me adapto bien a equipos multidisciplinares y valoro los entornos colaborativos que fomentan la mejora continua.
 
-📚 Cuento con formación en desarrollo de software, videojuegos y realidad virtual, así como en administración, un sector en el que trabajé durante años. Esa etapa me dio no solo experiencia, sino también la fuerza y la determinación para reinventarme profesionalmente y comenzar una nueva etapa con vocación y propósito.
+📚 Experiencia en formación y capacitación de personal, docentes y clientes finales, acompañándolos en el uso de productos y soluciones tecnológicas.
 
-He trabajado en distintos sectores y me he adaptado a diversos roles, siempre con compromiso, aprendiendo de cada experiencia y progresando dentro de las empresas en las que he colaborado.
+🎵 Productor musical especializado en música para videojuegos, con más de 15 años de experiencia como músico, creando música orientada a reforzar la atmósfera, la narrativa y la experiencia del jugador.
 
-🕹️ Me especializo en desarrollo con motores de videojuegos y en aplicaciones Android 📱, áreas en las que más he crecido técnica y creativamente. Cada día trabajo por seguir formándome, aprendiendo y mejorando como profesional.
+📹 Creador de contenido en vídeo sobre desarrollo de videojuegos y el sector gaming, donde comparto conocimientos, procesos y reflexiones profesionales.
 
 ---
 
 ### Hi, I'm Carlos Arribas 👋
 
-💻 Software developer and interactive experience creator using game engines 🎮, as well as a video content creator focused on game development and video games.
+💻 Software and interactive experiences developer for video game engines, specialised in Unity, virtual reality, and Android application development 📱.
 
-Currently, I’m working on solutions focused on Virtual Reality 🥽, where I get to do what I love most: coding, designing interactions, and building immersive environments. I enjoy working in teams and fostering a positive atmosphere that boosts productivity and collective growth.
+I work on the development of applications and video games, taking part in programming, design, and the creation of immersive environments, with a solid, practical, and product-oriented technical approach. I adapt well to multidisciplinary teams and value collaborative environments that foster continuous improvement.
 
-📚 I hold qualifications in software development, video games, and VR, as well as in business administration — a field I worked in for several years. That stage gave me not only experience but also the drive to reinvent myself professionally and pursue a career aligned with my true passion.
+📚 Experience in training and onboarding staff, educators, and end users, supporting them in the effective use of products and technological solutions.
 
-I’ve worked across various industries and adapted to different roles, always committed to learning from each experience and growing within the organisations I've been part of.
+🎵 Video game music producer, with over 15 years of experience as a musician, creating music aimed at enhancing atmosphere, narrative, and player experience.
 
-🕹️ My focus is on game engine development and Android applications 📱, where I've gained the most training and hands-on experience. Every day, I strive to keep learning and improving, both professionally and personally.
+📹 Video content creator focused on game development and the gaming industry, where I share knowledge, processes, and professional insights.
 
 ---
 
