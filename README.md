@@ -65,3 +65,5 @@ I work on the development of applications and video games, taking part in progra
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/charlie2dev)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GameFrameDev)
 [![TikTok](https://img.shields.io/badge/TikTok-FF0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gameframedev)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/charlie2dev)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/4Li4Zjf5keTI9B1dTlEVsK)
