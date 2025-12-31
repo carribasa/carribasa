@@ -47,14 +47,14 @@ I work on the development of applications and video games, taking part in progra
 
 ## 🎬 Portfolio - Proyectos profesionales:
 
-🎥 [Simulador Emergencias Sanitarias](https://www.youtube.com/watch?v=pidI46RNh0k)  
-🎥 [Simulador Laboratorio de Bioquímica](https://www.youtube.com/watch?v=xuhOttJNmEo)  
-🎥 [Simulador Peluquería y Estética](https://www.youtube.com/watch?v=9wxmmJeQuvI)  
+🎥 [Simulador Emergencias Sanitarias](https://www.youtube.com/watch?v=pidI46RNh0k) ->  Diseñador de software | Programador principal
+🎥 [Simulador Laboratorio de Bioquímica](https://www.youtube.com/watch?v=xuhOttJNmEo) ->  Diseñador de software | Programador principal
+🎥 [Simulador Peluquería y Estética](https://www.youtube.com/watch?v=9wxmmJeQuvI) ->  Diseñador de software | Programador principal
 
 ## 🎮 Portfolio - Videojuegos independientes:
 
-🕹️ [Rhythm Drop](https://charlie2dev.itch.io/rhythm-drop)  
-🕹️ [Candy Hut](https://kami14.itch.io/candyhut)  
+🕹️ [Rhythm Drop](https://charlie2dev.itch.io/rhythm-drop) -> Programador | Productor musical
+🕹️ [Candy Hut](https://kami14.itch.io/candyhut) -> Programador | Productor musical | Diseño de audio
 
 ---
 
